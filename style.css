@@ -1,6 +1,6 @@
 body {
 	display: flex;
-	flex-direction: column;
+	flex-direction: row;
 	background-color: #a9a9a9;
 	height: 100%;
 	width: 100%;
@@ -20,6 +20,7 @@ footer {
 	height: 50px;
 	background-color: black;
 	color: white;
+	width: 100%;
 }
 
 header {
