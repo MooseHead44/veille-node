@@ -2,11 +2,19 @@ body {
 	display: flex;
 	flex-direction: column;
 	background-color: #a9a9a9;
-	height: 1000px;
+	height: 100%;
+}
+
+div {
+	background-color: tomato;
+	margin: 10px;
 }
 
 footer {
-
+	position: absolute;
+	height: 50px;
+	background-color: black;
+	color: white;
 }
 
 header {
