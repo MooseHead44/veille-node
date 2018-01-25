@@ -38,4 +38,10 @@ header {
 
 p {
 	margin: 10px;
+	background-color: green;
+	width: 100%;
+	height: auto;
+	justify-content: center;
+    display: flex;
+    align-items: center;
 }
