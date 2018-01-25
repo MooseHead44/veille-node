@@ -13,10 +13,11 @@ div {
 	height: 100px;
 	display: flex;
 	flex-direction: row;
+	justify-content: center;
+	align-items: center;
 }
 
 footer {
-
 	height: 50px;
 	background-color: black;
 	color: white;
