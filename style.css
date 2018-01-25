@@ -9,6 +9,8 @@ body {
 div {
 	background-color: tomato;
 	margin: 10px;
+	width: 100px;
+	
 }
 
 footer {
