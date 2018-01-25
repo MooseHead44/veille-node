@@ -3,6 +3,7 @@ body {
 	flex-direction: column;
 	background-color: #a9a9a9;
 	height: 100%;
+	width: 100%;
 }
 
 div {
